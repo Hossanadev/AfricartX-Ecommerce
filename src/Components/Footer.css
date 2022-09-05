@@ -1,0 +1,18 @@
+.footer {
+    color: #ffffff;
+    background-color: #0d5d71;
+    padding: 50px;
+    align-items: center;
+    font-weight: 500;
+    justify-content: center;
+    display: flex;
+    border-top: 1px solid #ffffff;
+    box-shadow: rgb(0 0 0 / 19%) 0px 10px 20px, rgb(0 0 0 / 23%) 1px -4px 7px;
+}
+
+.FaCopyright {
+    margin-right: 3px;
+    margin-left: 3px;
+    font-weight: 200;
+    font-size: small;
+}
